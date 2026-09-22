@@ -1,0 +1,129 @@
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book a Room
+3. View Booking Details
+4. Cancel Reservation
+5. Exit
+Enter your choice: 1
+
+--- Available Rooms ---
+Room Number : 101
+Category    : Standard
+Price       : ₹1500.0
+-----------------------
+Room Number : 102
+Category    : Standard
+Price       : ₹1500.0
+-----------------------
+Room Number : 201
+Category    : Deluxe
+Price       : ₹2500.0
+-----------------------
+Room Number : 202
+Category    : Deluxe
+Price       : ₹2500.0
+-----------------------
+Room Number : 301
+Category    : Suite
+Price       : ₹4000.0
+-----------------------
+Room Number : 302
+Category    : Suite
+Price       : ₹4000.0
+-----------------------
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book a Room
+3. View Booking Details
+4. Cancel Reservation
+5. Exit
+Enter your choice: 2
+
+--- Book a Room ---
+Enter your name: lakshmi
+Enter your phone number: 688787643
+
+--- Available Rooms ---
+Room Number : 101
+Category    : Standard
+Price       : ₹1500.0
+-----------------------
+Room Number : 102
+Category    : Standard
+Price       : ₹1500.0
+-----------------------
+Room Number : 201
+Category    : Deluxe
+Price       : ₹2500.0
+-----------------------
+Room Number : 202
+Category    : Deluxe
+Price       : ₹2500.0
+-----------------------
+Room Number : 301
+Category    : Suite
+Price       : ₹4000.0
+-----------------------
+Room Number : 302
+Category    : Suite
+Price       : ₹4000.0
+-----------------------
+Enter room number to book: 201
+
+Room Price: ₹2500.0
+Enter payment amount: ₹2500
+Booking details saved to file.
+
+Payment successful!
+Room booked successfully!
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book a Room
+3. View Booking Details
+4. Cancel Reservation
+5. Exit
+Enter your choice: 3
+
+--- Booking Details ---
+
+--- Booking Details ---
+Customer Name : lakshmi
+Phone Number  : 688787643
+Room Number   : 201
+Room Category : Deluxe
+Room Price    : ₹2500.0
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book a Room
+3. View Booking Details
+4. Cancel Reservation
+5. Exit
+Enter your choice: 4
+
+--- Cancel Reservation ---
+Enter room number to cancel: 201
+Reservation cancelled successfully!
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book a Room
+3. View Booking Details
+4. Cancel Reservation
+5. Exit
+Enter your choice: 3
+
+--- Booking Details ---
+No bookings found.
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book a Room
+3. View Booking Details
+4. Cancel Reservation
+5. Exit
+Enter your choice: 5
+Thank you for using Hotel Reservation System!
